@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020676_0000_0FB0A3AF5FB86068"/>
-            <pb facs="tcp:020676_0001_0FB0A3B0E42B8968"/>
+            <pb facs="unknown:020676_0000_0FB0A3AF5FB86068"/>
+            <pb facs="unknown:020676_0001_0FB0A3B0E42B8968"/>
             <p>THE <hi>RETURNED CAPTIVE.</hi> A POEM FOUNDED ON A LATE-FACT.</p>
             <lg>
                <l>
@@ -146,7 +146,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:020676_0002_0FB0A3B2A3C03CA8"/>
+            <pb facs="unknown:020676_0002_0FB0A3B2A3C03CA8"/>
             <head>THE Returned Captive.</head>
             <div type="part">
                <head>William <hi>welcomes his friend</hi> John <hi>on his return from nine years captivity with his child.</hi> John <hi>relates his wife's late marriage with another; her great perplexity, fondneſs of the child, af<g ref="char:EOLhyphen"/>fection for him, and preference of him.</hi>
@@ -181,7 +181,7 @@
                   <l>Thrice welcome <hi>John!</hi> while joy his voice ſur<g ref="char:EOLhyphen"/>preſs'd,</l>
                   <l>He ſaid; and ardent ſeiz'd him to his breaſt;</l>
                   <l>
-                     <pb n="4" facs="tcp:020676_0003_0FB0A3B3EB923490"/>
+                     <pb n="4" facs="unknown:020676_0003_0FB0A3B3EB923490"/>
 To break the ſilence each eſſay'd in vain,</l>
                   <l>And tears of joy deſcend like ſhow'rs of rain.</l>
                </lg>
@@ -229,7 +229,7 @@ To break the ſilence each eſſay'd in vain,</l>
                   <l>The child with melting ardour ſhe careſs'd;</l>
                   <l>Diſſolv'd in tranſport held her to her breaſt.</l>
                   <l>
-                     <pb n="5" facs="tcp:020676_0004_0FB0A3B72D9484A0"/>
+                     <pb n="5" facs="unknown:020676_0004_0FB0A3B72D9484A0"/>
 And yet it ſeem'd my eye could plainly trace</l>
                   <l>Some bitter agitation in her face.</l>
                </lg>
@@ -277,7 +277,7 @@ And yet it ſeem'd my eye could plainly trace</l>
                   <l>Was it, my <hi>John,</hi> your kind officious care,</l>
                   <l>Recall'd my ſpirit to the vital air:</l>
                   <l>
-                     <pb n="6" facs="tcp:020676_0005_0FB0A3B96C738828"/>
+                     <pb n="6" facs="unknown:020676_0005_0FB0A3B96C738828"/>
 With joy I ſee you ſtill regard your wife;</l>
                   <l>Who cannot ceaſe to love you more than life.</l>
                </lg>
@@ -329,7 +329,7 @@ With joy I ſee you ſtill regard your wife;</l>
                   <l>Too poor to journey from his native place,</l>
                   <l>'Mong ſtrangers to ſupport his num'rous race;</l>
                   <l>
-                     <pb n="7" facs="tcp:020676_0006_0FB0A3BAEB390870"/>
+                     <pb n="7" facs="unknown:020676_0006_0FB0A3BAEB390870"/>
 Together long in ſafety we abide,</l>
                   <l>By ſlaught'ring bands alarm'd on ev'ry ſide.</l>
                </lg>
@@ -379,7 +379,7 @@ Together long in ſafety we abide,</l>
                   <l>And lights up more than all my former love.</l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:020676_0007_0FB0A3BC24291868"/>
+                  <pb n="8" facs="unknown:020676_0007_0FB0A3BC24291868"/>
                   <l>
                      <hi>Charles</hi> interrupting angrily replies,</l>
                   <l>Ungrateful woman! fickle, and unwiſe!</l>
@@ -426,7 +426,7 @@ Together long in ſafety we abide,</l>
                   <l>We yield this evening, with attentive ear,</l>
                   <l>Your intereſting narative to hear;</l>
                   <l>
-                     <pb n="9" facs="tcp:020676_0008_0FB0A3BDD2769000"/>
+                     <pb n="9" facs="unknown:020676_0008_0FB0A3BDD2769000"/>
 Nor will it your tranquillity deſtroy,</l>
                   <l>For mis'ries wholly paſt are preſent joy.</l>
                </lg>
@@ -473,7 +473,7 @@ Nor will it your tranquillity deſtroy,</l>
                         <desc>•</desc>
                      </gap>l the ſhow'ring bullets fly:</l>
                   <l>
-                     <pb n="10" facs="tcp:020676_0009_0FB0A3BF2363A970"/>
+                     <pb n="10" facs="unknown:020676_0009_0FB0A3BF2363A970"/>
 Full many a hardy warrior ſinks ſupine,</l>
                   <l>Yells, ſhrieks, groans, ſhouts, and thund'ring vol<g ref="char:EOLhyphen"/>lies join;</l>
                   <l>The diſmal din the ringing foreſt fills,</l>
@@ -516,7 +516,7 @@ Full many a hardy warrior ſinks ſupine,</l>
                   <l>Their rule of warfare, devaſtation dire,</l>
                   <l>By undiſtinguiſh'd plunder, death, and fire;</l>
                   <l>
-                     <pb n="11" facs="tcp:020676_0010_0FB0A3C2C1BADF00"/>
+                     <pb n="11" facs="unknown:020676_0010_0FB0A3C2C1BADF00"/>
 They torture man and beaſt, with barb'rous rage,</l>
                   <l>Nor tender infant ſpare, nor rev'rend ſage.</l>
                </lg>
@@ -599,7 +599,7 @@ They torture man and beaſt, with barb'rous rage,</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="12" facs="tcp:020676_0011_0FB0A3C546F207C8"/>
+                     <pb n="12" facs="unknown:020676_0011_0FB0A3C546F207C8"/>
 There woven boughs repel the ſcorching ray;</l>
                   <l>A hemlock ſhade impervious to the day;</l>
                   <l>To them the gen'rous fire reſign'd me o'er,</l>
@@ -655,7 +655,7 @@ There woven boughs repel the ſcorching ray;</l>
                         <desc>•</desc>
                      </gap>ight.</l>
                   <l>
-                     <pb n="13" facs="tcp:020676_0012_0FB0A3C6A6E33B10"/>
+                     <pb n="13" facs="unknown:020676_0012_0FB0A3C6A6E33B10"/>
 As this we paſs'd, along the ſhady brink,</l>
                   <l>A panting motley crew reclin'd to drink;</l>
                   <l>There underneath an aged trunk of pine,</l>
@@ -703,7 +703,7 @@ As this we paſs'd, along the ſhady brink,</l>
                   <l>And now the Britiſh camp appears at laſt!</l>
                   <l>Our ſouls exult to think our dangers paſt;</l>
                   <l>
-                     <pb n="14" facs="tcp:020676_0013_0FB0A3C82052A498"/>
+                     <pb n="14" facs="unknown:020676_0013_0FB0A3C82052A498"/>
 With ſullen ſtrut, a tow'ring chief appears;</l>
                   <l>His bitter imprecations ſtu<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -755,7 +755,7 @@ With ſullen ſtrut, a tow'ring chief appears;</l>
                   <l>Implor'd the guards might wreſt him for their hands,</l>
                   <l>Since now the troops could awe their leſſen'd bands;</l>
                   <l>
-                     <pb n="15" facs="tcp:020676_0014_0FB0A3C9B5594D88"/>
+                     <pb n="15" facs="unknown:020676_0014_0FB0A3C9B5594D88"/>
 With lifted cane the Gen'ral thus replies,</l>
                   <l>(While indignation ſparkles from his eyes)</l>
                   <l>" Go, ſirrah! mind your orders giv'n before!</l>
@@ -799,7 +799,7 @@ With lifted cane the Gen'ral thus replies,</l>
                   <l>A long adieu, I cry'd, my brethren ſlain!</l>
                   <l>No more to joy my longing ſoul again!</l>
                   <l>
-                     <pb n="16" facs="tcp:020676_0015_0FB0A3CB22AE5390"/>
+                     <pb n="16" facs="unknown:020676_0015_0FB0A3CB22AE5390"/>
 Who ſhall protect your wives, with guardian care,</l>
                   <l>And babes abandon'd to the rage of war?</l>
                   <l>Decrepit parents, with the feeble groan,</l>
@@ -839,7 +839,7 @@ Who ſhall protect your wives, with guardian care,</l>
                   <l>There hollow winds, in lamentable ſtrain,</l>
                   <l>Along the naked wilderneſs complain;</l>
                   <l>
-                     <pb n="17" facs="tcp:020676_0016_0FB0A3CC9EB2EEB8"/>
+                     <pb n="17" facs="unknown:020676_0016_0FB0A3CC9EB2EEB8"/>
 And waves with diſmal roarings never ſleep</l>
                   <l>Along the dreary margin of the deep.</l>
                </lg>
@@ -882,7 +882,7 @@ And waves with diſmal roarings never ſleep</l>
                   <l>At length a ſcant allowance we obtain;</l>
                   <l>Our failing ſtrength in part returns again.</l>
                   <l>
-                     <pb n="18" facs="tcp:020676_0017_0FB0A3CF50564BF8"/>
+                     <pb n="18" facs="unknown:020676_0017_0FB0A3CF50564BF8"/>
 Long days and nights, thus wretched, we abide;</l>
                   <l>By famine pinch'd; by danger terrify'd;</l>
                   <l>Impending torture gnawing on our hearts;</l>
@@ -929,7 +929,7 @@ Long days and nights, thus wretched, we abide;</l>
                   <l>We ſaw their fear'd approach, with mortal fright,</l>
                   <l>Their ſcalping-knives they ſharpen'd in our ſight,</l>
                   <l>
-                     <pb n="19" facs="tcp:020676_0018_0FB0A3D071F064B0"/>
+                     <pb n="19" facs="unknown:020676_0018_0FB0A3D071F064B0"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>eſide the guard they ſat them on the ground,</l>
@@ -1046,7 +1046,7 @@ Long days and nights, thus wretched, we abide;</l>
                         <desc>〈◊〉</desc>
                      </gap> num'rous herd a ſpacious circle make;</l>
                   <l>
-                     <pb n="20" facs="tcp:020676_0019_0FB0A3D1DE1399A8"/>
+                     <pb n="20" facs="unknown:020676_0019_0FB0A3D1DE1399A8"/>
 And as the flames advancing riſe in air,</l>
                   <l>Within the ring my torturers repair;</l>
                   <l>With whoop, and dance, they tune the deathful ſong;</l>
@@ -1095,7 +1095,7 @@ And as the flames advancing riſe in air,</l>
                   <l>Long on the earth, in ſleep profound, I lay,</l>
                   <l>Unknowing of the wiſh'd return of day,</l>
                   <l>
-                     <pb n="21" facs="tcp:020676_0020_0FB0A3D4ACF5C7E8"/>
+                     <pb n="21" facs="unknown:020676_0020_0FB0A3D4ACF5C7E8"/>
 Till in my ear loud ſavage voices ſound,</l>
                   <l>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1149,7 +1149,7 @@ Till in my ear loud ſavage voices ſound,</l>
                         <desc>••</desc>
                      </gap>griev'd at parting from my native land,</l>
                   <l>
-                     <pb n="22" facs="tcp:020676_0021_0FB0A3D5C0974E60"/>
+                     <pb n="22" facs="unknown:020676_0021_0FB0A3D5C0974E60"/>
 To bid adieu to country, ſpouſe, and child;</l>
                   <l>And live a ſlave in ſavage lands exil'd.</l>
                </lg>
@@ -1197,7 +1197,7 @@ To bid adieu to country, ſpouſe, and child;</l>
                   <l>All nature ſeem'd to lie in calm repoſe,</l>
                   <l>And now my diſtant home in fancy roſe:</l>
                   <l>
-                     <pb n="23" facs="tcp:020676_0022_0FB0A3D7DA62BED8"/>
+                     <pb n="23" facs="unknown:020676_0022_0FB0A3D7DA62BED8"/>
 O could I but divide this fett'ring thong,</l>
                   <l>I'd ſpeed my flight the ſavage wilds along.</l>
                   <l>No knife I had, to cut the band away,</l>
@@ -1238,7 +1238,7 @@ O could I but divide this fett'ring thong,</l>
                   <l>And calmly reſted till the dawn of day.</l>
                </lg>
                <lg>
-                  <pb n="24" facs="tcp:020676_0023_0FB0A3D8A4D2FC98"/>
+                  <pb n="24" facs="unknown:020676_0023_0FB0A3D8A4D2FC98"/>
                   <l>When now <hi>Aurora</hi> ſpangled o'er the ſkies,</l>
                   <l>From gentle ſleep we haſtily ariſe;</l>
                   <l>The blazing fire again prepare with haſte,</l>
@@ -1280,7 +1280,7 @@ O could I but divide this fett'ring thong,</l>
                   <l>Their pris'ner, and their plunder, they expreſs,</l>
                   <l>By ſhouts ſignificant of their ſucceſs,</l>
                   <l>
-                     <pb n="25" facs="tcp:020676_0024_0FB0A3DA1DE80950"/>
+                     <pb n="25" facs="unknown:020676_0024_0FB0A3DA1DE80950"/>
                      <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>eet them, iſſued forth a num'rous train,</l>
@@ -1414,7 +1414,7 @@ O could I but divide this fett'ring thong,</l>
                      </gap> confide in him, and nothing fear.</l>
                </lg>
                <lg>
-                  <pb n="26" facs="tcp:020676_0025_0FB0A3DD30D8F588"/>
+                  <pb n="26" facs="unknown:020676_0025_0FB0A3DD30D8F588"/>
                   <l>There in a ſpacious hut, on either hand,</l>
                   <l>Two lengthy rows with ſticks and weapons ſtand,</l>
                   <l>Then ſtrip'd I was to paſs between the rows,</l>
@@ -1458,7 +1458,7 @@ O could I but divide this fett'ring thong,</l>
                   <l>My wife, my country, friends and blooming child;</l>
                   <l>Exchang'd for captive bands in regions wild;</l>
                   <l>
-                     <pb n="27" facs="tcp:020676_0026_0FB0A3DEE8338100"/>
+                     <pb n="27" facs="unknown:020676_0026_0FB0A3DEE8338100"/>
 Theſe thoughts inceſſant did my boſom rend,</l>
                   <l>And often did the painful tear deſcend.</l>
                </lg>
@@ -1506,7 +1506,7 @@ Theſe thoughts inceſſant did my boſom rend,</l>
                   <l>My quiet lodging I prepare to take,</l>
                   <l>Of barks and broken limbs a fire I make;</l>
                   <l>
-                     <pb n="28" facs="tcp:020676_0027_0FB0A3E06E1666A0"/>
+                     <pb n="28" facs="unknown:020676_0027_0FB0A3E06E1666A0"/>
 With eager haſte my bleeding prey I dreſs'd,</l>
                   <l>Then part I roaſted and reſerv'd the reſt;</l>
                   <l>The wholeſome meat prepar'd, I eat my fill,</l>
@@ -1564,7 +1564,7 @@ With eager haſte my bleeding prey I dreſs'd,</l>
                   <l>May peace attend the future path I go.</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:020676_0028_0FB0A3E1AF1C6108"/>
+                  <pb n="29" facs="unknown:020676_0028_0FB0A3E1AF1C6108"/>
                   <l>I go to lovely wife, and parent land,</l>
                   <l>Though toils and dangers intervening ſtand,</l>
                   <l>I go to tell my friends the horrid tale,</l>
@@ -1608,7 +1608,7 @@ With eager haſte my bleeding prey I dreſs'd,</l>
                   <l>For one of theſe I knew to be the ſame,</l>
                   <l>Who ty'd me to the ſtake beſide the flame,</l>
                   <l>
-                     <pb n="30" facs="tcp:020676_0029_0FB0A3E31EA3F6B0"/>
+                     <pb n="30" facs="unknown:020676_0029_0FB0A3E31EA3F6B0"/>
 He knew me not in this my new diſguiſe;</l>
                   <l>And now their blazing fire directs our eyes;</l>
                   <l>Their piercing yell runs echoing down the dale,</l>
@@ -1659,7 +1659,7 @@ He knew me not in this my new diſguiſe;</l>
                   <l>Through all the ſavage bands I'd ſought in vain.</l>
                </lg>
                <lg>
-                  <pb n="31" facs="tcp:020676_0030_0FB0A3E6A1BB1220"/>
+                  <pb n="31" facs="unknown:020676_0030_0FB0A3E6A1BB1220"/>
                   <l>Now morning ſaffron'd o'er the fields of air,</l>
                   <l>A ſhort repaſt they haſtily prepare,</l>
                   <l>There fourths remaining of my evening prey,</l>
@@ -1711,7 +1711,7 @@ He knew me not in this my new diſguiſe;</l>
                   <l>Still ſeem'd the hateful ſound to pierce my heart,</l>
                </lg>
                <lg>
-                  <pb n="32" facs="tcp:020676_0031_0FB0A3E7A82BDFE0"/>
+                  <pb n="32" facs="unknown:020676_0031_0FB0A3E7A82BDFE0"/>
                   <l>And now a lake to northward we eſpy;</l>
                   <l>A boundleſs proſpect opening to the eye,</l>
                   <l>Extenſive meadows ſtretch along its ſide,</l>
@@ -1763,7 +1763,7 @@ He knew me not in this my new diſguiſe;</l>
                   <l>At ſavage dwellings we arrive again;</l>
                   <l>There reſting through a tedious ſtorm of rain;</l>
                   <l>
-                     <pb n="33" facs="tcp:020676_0032_0FB0A3E92E12E818"/>
+                     <pb n="33" facs="unknown:020676_0032_0FB0A3E92E12E818"/>
 With conſternation here they ey'd us o'er,</l>
                   <l>The race of white they ne'er had ſeen before.</l>
                </lg>
@@ -1806,7 +1806,7 @@ With conſternation here they ey'd us o'er,</l>
                   <l>And now we to their ſmoky huts drew nigh</l>
                   <l>Of form uncouth and wretched to the eye;</l>
                   <l>
-                     <pb n="34" facs="tcp:020676_0033_0FB0A3EA9F932910"/>
+                     <pb n="34" facs="unknown:020676_0033_0FB0A3EA9F932910"/>
 A num'rous herd came forth upon the plain,</l>
                   <l>In extacy to ſee their friends again,</l>
                   <l>But wildly ſtare at us with furious eyes;</l>
@@ -1855,7 +1855,7 @@ A num'rous herd came forth upon the plain,</l>
                   <l>No book to entertain my lonely day,</l>
                   <l>No friend to cheer my ſolitary way;</l>
                   <l>
-                     <pb n="35" facs="tcp:020676_0034_0FB0A3EEDC23F2F0"/>
+                     <pb n="35" facs="unknown:020676_0034_0FB0A3EEDC23F2F0"/>
 Had not my fellow pris'ner nigh remain'd,</l>
                   <l>My native tongue I ſcarcely had retain'd.</l>
                </lg>
@@ -1899,7 +1899,7 @@ Had not my fellow pris'ner nigh remain'd,</l>
                   <l>And now I aſk'd my fellow pris'ner's mind,</l>
                   <l>If we for our eſcape no way could find:</l>
                   <l>
-                     <pb n="36" facs="tcp:020676_0035_0FB0A3EFEB1AE980"/>
+                     <pb n="36" facs="unknown:020676_0035_0FB0A3EFEB1AE980"/>
 He anſwer'd, our returning round the lake,</l>
                   <l>Were deſp'rate folly now to undertake;</l>
                   <l>Our Indian guards had took that tedious road,</l>
@@ -1943,7 +1943,7 @@ He anſwer'd, our returning round the lake,</l>
                   <l>Each day a week! and ev'ry month a year!</l>
                </lg>
                <lg>
-                  <pb n="37" facs="tcp:020676_0036_0FB0A3F186B8EAB0"/>
+                  <pb n="37" facs="unknown:020676_0036_0FB0A3F186B8EAB0"/>
                   <l>My ancient matron was accounted ſage,</l>
                   <l>Yet oft would yield to petulence of age;</l>
                   <l>She'd tax the preſent race with various crimes,</l>
@@ -1981,7 +1981,7 @@ He anſwer'd, our returning round the lake,</l>
                </lg>
             </div>
             <div type="part">
-               <pb n="38" facs="tcp:020676_0037_0FB0A3F186B8EAB0"/>
+               <pb n="38" facs="unknown:020676_0037_0FB0A3F186B8EAB0"/>
                <head>John'<hi>s ſtory continued. His final eſcape. Finds his only child and his friend in ſlavery. They return home with him. He ends his narration.</hi>
                </head>
                <lg>
@@ -2019,7 +2019,7 @@ He anſwer'd, our returning round the lake,</l>
                         <desc>••</desc>
                      </gap> my ſurpriſe,</l>
                   <l>
-                     <pb n="39" facs="tcp:020676_0038_0000000000000000"/>
+                     <pb n="39" facs="unknown:020676_0038_0000000000000000"/>
 Not underſtood, nor heeded by the foe,</l>
                   <l>With voice compos'd, my name I let him know;</l>
                   <l>Inquir'd about my family and home,</l>
@@ -2057,7 +2057,7 @@ Not underſtood, nor heeded by the foe,</l>
                   <l>While thus his narrative I ſtand to hear,</l>
                   <l>With trembling heart, and with attentive ear,</l>
                   <l>
-                     <pb n="40" facs="tcp:020676_0039_0FB0A3F81FD36A48"/>
+                     <pb n="40" facs="unknown:020676_0039_0FB0A3F81FD36A48"/>
 Among the guards, my rifle greets my ſight,</l>
                   <l>Prize once to him who took me in the fight:</l>
                   <l>My anxious eye then haſtily ſurveys,</l>
@@ -2096,7 +2096,7 @@ Among the guards, my rifle greets my ſight,</l>
                   <l>We quickly reach the rapid river's ſhore;</l>
                   <l>Where my canoe I'd faſt'ned juſt before;</l>
                   <l>
-                     <pb n="41" facs="tcp:020676_0040_0FB0A3FB52C26DE0"/>
+                     <pb n="41" facs="unknown:020676_0040_0FB0A3FB52C26DE0"/>
 A lengthy paddle in its bottom lay;</l>
                   <l>The knot too tight, we jerk the ſtake away;</l>
                   <l>We hurry in, and ſhoot along the ſtream;</l>
@@ -2138,7 +2138,7 @@ A lengthy paddle in its bottom lay;</l>
                   <l>Our late eſcape we fondly mention o'er,</l>
                   <l>Our ſorrows paſt and better days in ſtore;</l>
                   <l>
-                     <pb n="42" facs="tcp:020676_0041_0FB0A3FD863687C8"/>
+                     <pb n="42" facs="unknown:020676_0041_0FB0A3FD863687C8"/>
 Then our adventures we by turns recite,</l>
                   <l>And pleaſing converſation cheers the <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -2181,7 +2181,7 @@ Then our adventures we by turns recite,</l>
                   <l>The fire extended loud his joyful voice:</l>
                   <l>To hear the well known cry they all rejoice:</l>
                   <l>
-                     <pb n="43" facs="tcp:020676_0042_0FB0A3FEE44ED878"/>
+                     <pb n="43" facs="unknown:020676_0042_0FB0A3FEE44ED878"/>
 With anſw'ring ſhout, they iſſue on the plain,</l>
                   <l>Of ev'ry age and ſize, a lengthy train.</l>
                </lg>
@@ -2226,7 +2226,7 @@ With anſw'ring ſhout, they iſſue on the plain,</l>
                   <l>Fears leſt the foe purſuing might once more</l>
                   <l>Attack this place they'd pillag'd juſt before;</l>
                   <l>
-                     <pb n="44" facs="tcp:020676_0043_0FB0A4005E191FB8"/>
+                     <pb n="44" facs="unknown:020676_0043_0FB0A4005E191FB8"/>
 My lengthy journey to my native land;</l>
                   <l>Through many a hoſtile, bloody, ſavage band;</l>
                   <l>Theſe and the like reflections wound my breaſt;</l>
@@ -2266,7 +2266,7 @@ My lengthy journey to my native land;</l>
                   <l>I to my neighbour chief, this very day,</l>
                   <l>Will lead you ſafe on your deſired way:</l>
                   <l>
-                     <pb n="45" facs="tcp:020676_0044_0FB0A403946C0ED0"/>
+                     <pb n="45" facs="unknown:020676_0044_0FB0A403946C0ED0"/>
 Juſt at his door your little daughter dwells,</l>
                   <l>And <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -2317,7 +2317,7 @@ Juſt at his door your little daughter dwells,</l>
                   <l>The feeble ſwarm was eaſily exil'd,</l>
                   <l>To diſtant regions of the frozen wild.</l>
                   <l>
-                     <pb n="46" facs="tcp:020676_0045_0FB0A405A55D5690"/>
+                     <pb n="46" facs="unknown:020676_0045_0FB0A405A55D5690"/>
 The tribe of white our honeſt ſires oppreſs'd;</l>
                   <l>Now wrong'd by art; now rudely diſpoſſeſs'd;</l>
                   <l>The cruel, ſlaviſh race, of prudence void,</l>
@@ -2359,7 +2359,7 @@ The tribe of white our honeſt ſires oppreſs'd;</l>
                   <l>Of all our race with dying accents prays,</l>
                   <l>To ſhun their wars and to avoid their ways,</l>
                   <l>
-                     <pb n="47" facs="tcp:020676_0046_0FB0A4075448BBD8"/>
+                     <pb n="47" facs="unknown:020676_0046_0FB0A4075448BBD8"/>
 Which you and I may wiſh they had obſerv'd,</l>
                   <l>Theſe waſting tribes their peace had then preſerv'd,</l>
                   <l>Great <hi>George</hi> in vain had wheed<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2405,7 +2405,7 @@ Which you and I may wiſh they had obſerv'd,</l>
                   <l>The ſcar upon her wriſt I then ſurvey'd,</l>
                   <l>And mark beneath her chin, by nature made;</l>
                   <l>
-                     <pb n="48" facs="tcp:020676_0047_0FB0A40AB3FF5B08"/>
+                     <pb n="48" facs="unknown:020676_0047_0FB0A40AB3FF5B08"/>
                      <hi>George</hi> to behold my conſternation ſmil'd,</l>
                   <l>Confirming her indeed to be my child,</l>
                   <l>Through all my ſoul what melting paſſions reign!</l>
@@ -2453,7 +2453,7 @@ Which you and I may wiſh they had obſerv'd,</l>
                   <l>My fearful child I fondly ſtrove to gain,</l>
                   <l>But ev'ry gentle meaſure try'd in vain.</l>
                   <l>
-                     <pb n="49" facs="tcp:020676_0048_0FB0A40C6A6D3C90"/>
+                     <pb n="49" facs="unknown:020676_0048_0FB0A40C6A6D3C90"/>
 Next morn three warriors came to guard our way,</l>
                   <l>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2558,7 +2558,7 @@ Next morn three warriors came to guard our way,</l>
                         <desc>••</desc>
                      </gap>ll plenteous game, and fowl and fiſh afford:</l>
                   <l>
-                     <pb n="50" facs="tcp:020676_0049_0FB0A40E0CF3FE88"/>
+                     <pb n="50" facs="unknown:020676_0049_0FB0A40E0CF3FE88"/>
 Each have his faithful wife and friend again;</l>
                   <l>And love, and friendſhip never ending reign;</l>
                   <l>There ev'ry hero ſhall his own enjoy;</l>
@@ -2598,7 +2598,7 @@ Each have his faithful wife and friend again;</l>
                   <l>That God unſearchable by human pains,</l>
                   <l>O'er univerſal nature juſtly reigns,</l>
                   <l>
-                     <pb n="51" facs="tcp:020676_0050_0FB0A413525C2A30"/>
+                     <pb n="51" facs="unknown:020676_0050_0FB0A413525C2A30"/>
 Rewarding what we do through good intent,</l>
                   <l>On bad deſigns inflicting puniſhment;</l>
                   <l>A daemon counteracts his gracious will,</l>
@@ -2642,7 +2642,7 @@ Rewarding what we do through good intent,</l>
                   <l>" His venerable father, he reply'd,</l>
                   <l>A gallant warrior knew theſe regions wide;</l>
                   <l>
-                     <pb n="52" facs="tcp:020676_0051_0FB0A4159854D220"/>
+                     <pb n="52" facs="unknown:020676_0051_0FB0A4159854D220"/>
 And often ſaid that in his younger days,</l>
                   <l>A ſachem this huge monument did raiſe:</l>
                   <l>That when this ſachem and his warring band,</l>
@@ -2679,7 +2679,7 @@ And often ſaid that in his younger days,</l>
                   <l>Acroſs the gloſſy flood our eyes ſurvey,</l>
                   <l>The purple weſt reflects departing day;</l>
                   <l>
-                     <pb n="53" facs="tcp:020676_0052_0FB0A416DDE68A80"/>
+                     <pb n="53" facs="unknown:020676_0052_0FB0A416DDE68A80"/>
 Pale <hi>Cynthia</hi> ſmiling ſhows her ſilver horn,</l>
                   <l>Far o'er the weſtern gloomy wood forlorn:</l>
                   <l>Our lodging here, in uſual form, we take,</l>
@@ -2728,7 +2728,7 @@ Pale <hi>Cynthia</hi> ſmiling ſhows her ſilver horn,</l>
                   <l>Which yet uncomfortable ſeems and ſtrange.</l>
                </lg>
                <lg>
-                  <pb n="54" facs="tcp:020676_0053_0FB0A41C9E22B0F0"/>
+                  <pb n="54" facs="unknown:020676_0053_0FB0A41C9E22B0F0"/>
                   <l>For paſſage we embark, without delay<g ref="char:punc">▪</g>
                   </l>
                   <l>On board a little veſſel bound this way;</l>
@@ -2775,7 +2775,7 @@ Pale <hi>Cynthia</hi> ſmiling ſhows her ſilver horn,</l>
                   <l>Impell'd by fury ſuddenly I riſe;</l>
                   <l>He, with his mate precipitately flies:</l>
                   <l>
-                     <pb n="55" facs="tcp:020676_0054_0FB0A41C9E22B0F0"/>
+                     <pb n="55" facs="unknown:020676_0054_0FB0A41C9E22B0F0"/>
 In agitation, ſhaking I remain;</l>
                   <l>And ſocial joys to reliſh ſtrive in vain;</l>
                   <l>But when the moon o'erlook'd the mountain's head,</l>
@@ -2817,7 +2817,7 @@ In agitation, ſhaking I remain;</l>
                   <l>New riſing gayety expands their hearts;</l>
                   <l>Free converſation ſocial joy imparts;</l>
                   <l>
-                     <pb n="56" facs="tcp:020676_0055_0FB0A41FE07858F0"/>
+                     <pb n="56" facs="unknown:020676_0055_0FB0A41FE07858F0"/>
 But <hi>Charles</hi> in ſilence ſat, as preſs'd with care,</l>
                   <l>Nor join'd diſcourſe, nor would partake their fare.</l>
                </lg>
@@ -2868,7 +2868,7 @@ But <hi>Charles</hi> in ſilence ſat, as preſs'd with care,</l>
                      <hi>William</hi> the conduct of the war relates,</l>
                   <l>The preſent ſituation of the ſtates;</l>
                   <l>
-                     <pb n="57" facs="tcp:020676_0056_0FB0A4215DD93C40"/>
+                     <pb n="57" facs="unknown:020676_0056_0FB0A4215DD93C40"/>
                      <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>ntſ that plain induſtry greatly fails,</l>
@@ -2942,7 +2942,7 @@ But <hi>Charles</hi> in ſilence ſat, as preſs'd with care,</l>
                   <l>Nor longer brook'd my abſence from your arms.</l>
                </lg>
                <lg>
-                  <pb n="58" facs="tcp:020676_0057_0FB0A42565A10E80"/>
+                  <pb n="58" facs="unknown:020676_0057_0FB0A42565A10E80"/>
                   <l>" I ſpeed my way, by ſilver <hi>Luna</hi>'s beams,</l>
                   <l>O'er floating bridges, meads, and turbib ſtreams:</l>
                   <l>The midnight breeze a fearful whiſp'ring made,</l>
@@ -2981,7 +2981,7 @@ But <hi>Charles</hi> in ſilence ſat, as preſs'd with care,</l>
                   <l>" Thus while I ſpake, you glide to yonder vale;</l>
                   <l>A tender ſcreech is heard along the gale,</l>
                   <l>
-                     <pb n="59" facs="tcp:020676_0058_0FB0A4269E027AD8"/>
+                     <pb n="59" facs="unknown:020676_0058_0FB0A4269E027AD8"/>
 In bitter grief of heart, aloud I weep,</l>
                   <l>And ſteep'd in briny tears awake from ſleep.</l>
                   <l>With boding fears I trembling roſe forlorn,</l>
@@ -3028,7 +3028,7 @@ In bitter grief of heart, aloud I weep,</l>
                   <l>No doubt remain'd in her, in you nor me;</l>
                   <l>Yet, ſince he lives, her choice is wholly free:</l>
                   <l>
-                     <pb n="60" facs="tcp:020676_0059_0FB0A42B3955BC00"/>
+                     <pb n="60" facs="unknown:020676_0059_0FB0A42B3955BC00"/>
 With manly frankneſs yield the lovely dame!</l>
                   <l>To <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
